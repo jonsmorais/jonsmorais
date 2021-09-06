@@ -2,4 +2,4 @@
 Estudante de Ciência da computação.<br><br>
 Desenvolvedor técnico no ZENIT - Parque Científico e Tecnológico da UFRGS.
 
-mailto:jonathaan.m@gmail.com
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> jonathaan.m@gmail.com

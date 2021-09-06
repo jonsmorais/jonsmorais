@@ -1,4 +1,4 @@
-📝 Sobre<br><br>
+📝 <b>size"+2"Sobre<b><br><br>
 Estudante de Ciência da computação.<br><br>
 Desenvolvedor técnico no ZENIT - Parque Científico e Tecnológico da UFRGS.<br><br>
 
